@@ -25,7 +25,6 @@ ABC E-Commerce is a fictional online retail platform. This project simulates a r
 | Shippers | Shipping carriers |
 | Returns | Product return records |
 
-Full DDL: [`schema/schema.sql`](schema/schema.sql)
 
 ## Query Breakdown
 
@@ -41,7 +40,6 @@ Full DDL: [`schema/schema.sql`](schema/schema.sql)
 | Set Operations | 4 | `08_set_operations.sql` | Repeat customers across 2024 and 2025 (`INTERSECT`) |
 | Window Functions | 9 | `09_window_functions.sql` | Top 3 products per category, running sales total, `NTILE(4)` spending tiers |
 
-Full list of all 70 questions with descriptions: [`docs/business_questions.md`](docs/business_questions.md)
 
 ## A Note on the Employee Hierarchy
 
